@@ -1,0 +1,13 @@
+﻿@model List<OrnekCalisma.Project.DTO.SehirAnalizDTO>
+@{
+    ViewBag.Title = "SehirBazliAnalizYap";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Ürün Adetine Göre Sıralama</h1>
+
+@foreach (var item in Model)
+{
+    <p>Şehir Ad : @item.SehirAdi -----  Fiyat : @item.ToplamFiyat ----- Adet : @item.urunAdeti</p>
+}
+

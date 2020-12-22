@@ -1,0 +1,5 @@
+C:\Users\nakres\source\repos\OrnekCalisma\OrnekCalisma.Project.DTO\bin\Debug\OrnekCalisma.Project.DTO.dll
+C:\Users\nakres\source\repos\OrnekCalisma\OrnekCalisma.Project.DTO\bin\Debug\OrnekCalisma.Project.DTO.pdb
+C:\Users\nakres\source\repos\OrnekCalisma\OrnekCalisma.Project.DTO\obj\Debug\OrnekCalisma.Project.DTO.csproj.CoreCompileInputs.cache
+C:\Users\nakres\source\repos\OrnekCalisma\OrnekCalisma.Project.DTO\obj\Debug\OrnekCalisma.Project.DTO.dll
+C:\Users\nakres\source\repos\OrnekCalisma\OrnekCalisma.Project.DTO\obj\Debug\OrnekCalisma.Project.DTO.pdb

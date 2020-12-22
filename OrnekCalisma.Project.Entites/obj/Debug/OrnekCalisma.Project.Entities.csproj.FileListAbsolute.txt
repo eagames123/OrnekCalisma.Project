@@ -1,0 +1,11 @@
+C:\Users\nakres\source\repos\OrnekCalisma\OrnekCalisma.Project.Entites\bin\Debug\OrnekCalisma.Project.Entites.dll
+C:\Users\nakres\source\repos\OrnekCalisma\OrnekCalisma.Project.Entites\bin\Debug\OrnekCalisma.Project.Entites.pdb
+C:\Users\nakres\source\repos\OrnekCalisma\OrnekCalisma.Project.Entites\bin\Debug\OrnekCalisma.Core.dll
+C:\Users\nakres\source\repos\OrnekCalisma\OrnekCalisma.Project.Entites\bin\Debug\OrnekCalisma.Project.DTO.dll
+C:\Users\nakres\source\repos\OrnekCalisma\OrnekCalisma.Project.Entites\bin\Debug\OrnekCalisma.Core.pdb
+C:\Users\nakres\source\repos\OrnekCalisma\OrnekCalisma.Project.Entites\bin\Debug\OrnekCalisma.Project.DTO.pdb
+C:\Users\nakres\source\repos\OrnekCalisma\OrnekCalisma.Project.Entites\obj\Debug\OrnekCalisma.Project.Entities.csprojAssemblyReference.cache
+C:\Users\nakres\source\repos\OrnekCalisma\OrnekCalisma.Project.Entites\obj\Debug\OrnekCalisma.Project.Entities.csproj.CoreCompileInputs.cache
+C:\Users\nakres\source\repos\OrnekCalisma\OrnekCalisma.Project.Entites\obj\Debug\OrnekCalisma.Project.Entities.csproj.CopyComplete
+C:\Users\nakres\source\repos\OrnekCalisma\OrnekCalisma.Project.Entites\obj\Debug\OrnekCalisma.Project.Entites.dll
+C:\Users\nakres\source\repos\OrnekCalisma\OrnekCalisma.Project.Entites\obj\Debug\OrnekCalisma.Project.Entites.pdb

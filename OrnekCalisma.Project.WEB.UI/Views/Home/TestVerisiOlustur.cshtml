@@ -1,0 +1,14 @@
+﻿
+@{
+    ViewBag.Title = "TestVerisiOlustur";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>TestVerisiOlustur</h2>
+
+@using (Html.BeginForm("TestVerisiOlustur", "Home", FormMethod.Post))
+{
+    <p>Müşteri Adeti : <input type="text" name="musteriAdet" /></p>
+    <p>Sepet Adeti : <input type="text" name="sepetAdet"/></p>
+    <input type="submit" value="Ekle"/>
+}
