@@ -8,7 +8,6 @@ namespace OrnekCalisma.Project.WEB.UI.Controllers
 {
     public class HomeController : Controller
     {
-
         public readonly IMusteriService _musteriService;
 
         public readonly ISepetService _sepetService;

@@ -1,0 +1,1 @@
+script.sql üzerinden DB ye erişebilirsiniz.
